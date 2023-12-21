@@ -74,8 +74,8 @@ This empowers users with a fair valuation alternative to prices quoted by proper
 Root Mean Squared Error
 
 ## 11. Results
-![image-2.png](attachment:image-2.png)
-![image.png](attachment:image.png)
+<img src="datasets/rmse_lyw.png" width="80%">
+<img src="datasets/kaggle_lyw.png" width="80%">
 
 
 ## 12. Conclusions and Recommendations
